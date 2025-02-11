@@ -1,5 +1,5 @@
 service:
-  name: aks-prod2
+  name: aks-prod
   providerconfigref: pr-config-fddev
 tenant:
   id: 063afd9e-5fcb-48d2-a769-ca31b0f5b443
